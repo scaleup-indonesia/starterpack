@@ -13,7 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div class="container">
 	<div class="navbar">
-	Smaller
+	Starterpack
 	</div>
 </div>
 
